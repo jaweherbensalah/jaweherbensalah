@@ -1,10 +1,11 @@
 <h1 align="center">
 Hi There 👋 <br> 
-This is Jaweher
+I am Jaweher
 </h1>
 
 <h3 align="center">
-I'm a software engineer | full Stack Developer
+A software engineer 
+   
 </h3>
    <p align="center" >
 Here is the list of the technologies I'm currently using
@@ -12,7 +13,7 @@ Here is the list of the technologies I'm currently using
 
 <p align="center">
 
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png"      alt="Python" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png"      alt="Python" width="40" height="40"/>
   <img src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" alt="Django" width="40"     height="40"/>   
   <img src="https://user-images.githubusercontent.com/51070104/143268330-4da45053-f241-4d82-ba0f-03930e35834a.jpg" alt="DjangoCookieCutter" width="40" height="40"/>
    <img src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" alt="ScikitLearn" width="40" height="40"/>
