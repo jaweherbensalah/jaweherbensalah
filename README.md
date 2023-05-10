@@ -13,7 +13,7 @@ Here is the list of the technologies I'm currently using
 <p align="center">
 
    <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png"      alt="Python" width="40" height="40"/>
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/django-logo-icon.svg" alt="Django" width="40"     height="40"/>  
+  <img src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" alt="Django" width="40"     height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
  </p>
